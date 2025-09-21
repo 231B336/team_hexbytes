@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "123563495191",
+    "project_id": "sihhexbytes",
+    "storage_bucket": "sihhexbytes.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123563495191:android:0224045963e67cdbdeb152",
+        "android_client_info": {
+          "package_name": "com.example.sih"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1Zj0D_A7EHym4V4AbLyFZdCGgBDtKd_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
